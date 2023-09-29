@@ -3,4 +3,5 @@ numpy
 pandas
 pydeck
 streamlit
-BeautifulSoup
+BeautifulSoup4
+scikit-learn
