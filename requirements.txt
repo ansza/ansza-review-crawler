@@ -4,6 +4,7 @@ pandas
 pydeck
 streamlit
 BeautifulSoup4
+BeautifulSoup
 scikit-learn
 sklearn
 bs4
