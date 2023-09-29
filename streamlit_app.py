@@ -1,5 +1,6 @@
 import streamlit as st
 import requests
+$ pip install BeautifulSoup4
 from bs4 import BeautifulSoup
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
