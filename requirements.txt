@@ -3,5 +3,6 @@ numpy
 pandas
 pydeck
 streamlit
-sklearn
-bs4
+beautifulsoup4==4.9.0
+scikit-learn==0.23.2
+sklearn==0.0
