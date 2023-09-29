@@ -3,4 +3,4 @@ numpy
 pandas
 pydeck
 streamlit
-bs4
+BeautifulSoup
