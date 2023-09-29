@@ -5,3 +5,5 @@ pydeck
 streamlit
 BeautifulSoup4
 scikit-learn
+sklearn
+bs4
